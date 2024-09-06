@@ -1,0 +1,4 @@
+- Filstruktur - resovlers i en mapp?
+- .env - process för ny instans av pool
+- Testa med variabler i apollo sandbox
+- integrera validering?
